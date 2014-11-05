@@ -12,7 +12,7 @@ This version is currently provided in .mobi (compatible with Kindle devices) and
 * ~~Fix code indentation for chapter 1~~
 * ~~Fix code indentation for chapter 2~~
 * ~~Fix code indentation for chapter 3~~
-* Fix code indentation for chapter 4
+* Fix code indentation for chapter 4 
 * Fix code indentation for chapter 5 
 * Fix code indentation for chapter 6
  
