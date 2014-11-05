@@ -16,3 +16,4 @@ This version is currently provided in .mobi (compatible with Kindle devices) and
 * Fix code indentation for chapter 5 
 * Fix code indentation for chapter 6
  
+[![Build Status](https://www.gitbook.io/button/status/book/roachhd/humble-little-ruby-book)](https://www.gitbook.io/book/roachhd/humble-little-ruby-book/activity)
